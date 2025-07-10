@@ -1,7 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Oi&display=swap');
 
  body {
-   background-color:#41b034;
+   background-image:url('photo_2025-07-03_21-14-55.jpg')
 
+
+}
+
+input{
+font-size:750px;
+width:1700px;
+background-color:transparent;
 
 }
